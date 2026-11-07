@@ -1,0 +1,2 @@
+Wenn man das Projekt startet:
+Öffne eine leere Szene und wähle Tools → Mobile UI Demo → Build UI in current scene.
